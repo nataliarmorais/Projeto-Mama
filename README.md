@@ -1,4 +1,6 @@
 Projeto Outubro Rosa.
 
-Esse projeto foi criado para fins de estudos das escola Vai na Web. Criado através das linguagens HTML e CSS , utilizando imagens do FIGMA.
-Foi um projeto desafiador para mim , visto que tudo que estou vivenciando ainda é novo. Porém , espero aprender a desenvolver e melhorar cada vez mais . 
+Esse projeto foi criado para fins de estudos das escola Vai na Web. Utilizando HTML para estuturar a página e CSS para estilizar e torná-la responsiva. 
+O design foi inspirado em protótipo criado no FIGMA, garantindo um layout visualmente atraente e adaptável a diferentes dispositivos . 
+A navegação e os elementos do site foram implementados para propocionar uma experiência simples e fluida.
+ 
